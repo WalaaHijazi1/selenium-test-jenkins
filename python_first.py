@@ -37,7 +37,7 @@ search_bar.send_keys(Keys.RETURN)
 # Print the current URL
 
 print(driver.current_url)
-
+print("The process ended successfully!")
 
 
 # Close the browser window
